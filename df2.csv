@@ -1,0 +1,75 @@
+Campus,Faculty,Experience,KUR3_suggest,KUR_suggest,KURX_suggest,Inform_suggest
+Sriracha,Engineering,16-20 ปี,0,0,0,0
+Bangkhen,KAPI,<= 5 ปี,การอนุมัติในการขอแก้ไขล่าช้า,0,0,0
+Bangkhen,Science,16-20 ปี,0,0,0,0
+Bangkhen,Agriculture,11-15 ปี,0,0,0,0
+Bangkhen,Humanities,16-20 ปี,การแก้ไขข้อมูล การอัพเดตข้อมูลบางครั้งล่าช้า,0,0,-
+KamphaengSaen,LiberalArts_and_Science,6-10 ปี,0,0,0,0
+Bangkhen,Fisheries,11-15 ปี,-,0,0,0
+SakonNakon,Science_and_Engineering,16-20 ปี,-,0,0,-
+Bangkhen,Engineering,6-10 ปี,0,0,0,0
+Bangkhen,IFRPD,16-20 ปี,หัวข้อรายชื่อโครงการที่ได้รับทุนอุดหนุนวิจัย มก. (ในฐานะหัวหน้าโครงการ/ผู้ร่วมโครงการ) มีรายชื่อโครงการที่ซ้ำกัน และบางโครงการไม่ได้ระบุงบประมาณของโครงการ,0,0,0
+Bangkhen,Agriculture,21-25 ปี,0,0,0,0
+KamphaengSaen,Agriculture,16-20 ปี,ระบบยังไม่ถึงขั้น friendly use และการคลิกกรอกข้อมูลบางทีก็อัพโหลดนาน และระบบหลุดบ่อย,0,0,0
+Bangkhen,Engineering,> 25 ปีขึ้นไป,บางครั้งตัวอักษรแสดงซ้ำซ้อนกันบนจอแสดงผล,0,0,0
+Bangkhen,Engineering,<= 5 ปี,0,0,0,0
+Bangkhen,Social_Sciences,11-15 ปี,"ไม่เชื่อมโยงกับระบบประเมินผลการทำงานของบุคคลากร, ความล่าช้าของการกดอนุมัติการกรอกผลงาน, การกำหนดช่วงระยะเวลาการตีพิมพ์ที่ไม่ตายตัวจนเกินไปความเป็นจริงทำให้ผลงานบางผลงานไม่สามารถกรอกลงระบบได้ เช่น เมื่อปีที่ตีพิมพ์ ไม่ตรงกับช่วงเวลาประเมินผลงาน",0,0,เจ้าหน้าที่ไม่พร้อมรับฟังว่ามีปัญหาอะไร ทำงานตามเกณฑ์ที่ผู้บังคับบัญชาวางไว้เป๊ะ และ ไม่มีอำนาจในการตัดสินใจ ทำให้บางครั้งการปรึกษาเจ้าหน้าที่ ไม่สามารถแก้ปัญหาได้
+KamphaengSaen,Agriculture,16-20 ปี,-,-,-,-
+Bangkhen,Science,16-20 ปี,0,0,0,0
+Bangkhen,Education,<= 5 ปี,-,-,-,-
+Bangkhen,Engineering,11-15 ปี,0,0,0,-
+Bangkhen,Agro_industry,<= 5 ปี,0,0,0,0
+Bangkhen,Engineering,<= 5 ปี,0,0,0,0
+Sriracha,Engineering,<= 5 ปี,ข้อมูลภาระงานต่างๆควรเชื่อมถึงกันไม่ต้องให้กรอกเอง,ระบบล่มบ่อยมาก และข้อมูลบางส่วนหายไประหว่างบันทึก,0,ควรปรับปรุงให้ข้อมูลเชื่อมกับส่วนกลาง ให้ทันสมัยกับอุปกรณ์ที่ใช้งาน Responsive Interaction
+Bangkhen,Education,<= 5 ปี,0,0,0,0
+Bangkhen,Agro_industry,11-15 ปี,0,0,0,0
+Bangkhen,Education,<= 5 ปี,หน้าตาการแสดงผลเรียบง่าย คิดว่าเหมาะสมสำหรับบุคลากรที่มีช่วงวัยที่หลากหลายครับ,0,0,0
+KamphaengSaen,Agriculture,6-10 ปี,0,0,0,0
+Bangkhen,Science,> 25 ปีขึ้นไป,0,0,0,0
+Bangkhen,Agro_industry,11-15 ปี,Not up to date,Please copy research plan from the previous report into the template and let researcher approve before further fill in the next page.,0,Restructure and make it is user friendly design.
+Bangkhen,Veterinary_Medicine,> 25 ปีขึ้นไป,"1.การสื่อสารระหว่างนักวิจัยและผู้จัดทำระบบควรจะเป็น automatic หรือ REALTIME alert ไม่ต้องโทร confirm
+2.ให้แนบหลักฐานมากเกินไป แค่ใส่ DOI หรือแนบ article pdf น่าจะพอ",1) ในหน้าต่างให้กรอก ปัญหา อุปสรรค์ การแก้ไข ถ้ามี choice ให้เลือกติ๊กได้มากว่า 1 ข้อ ก็จะดี โดย เนื้อหา choice สามารถนำมาจากรายงานที่ผ่านมาของนักวิจัยของ มก 2) ไฟล์ที่ upload แล้ว ควรจะมีช่องทางให้จัดเรียงลำดับได้,.การสื่อสารระหว่างนักวิจัยและผู้จัดทำระบบควรจะเป็น automatic หรือ REALTIME alert ไม่ต้องโทร confirm,น่าจะมีคลังข้อมูลผลงานวิจัยี่ได้รับทุนจาก สวพ และสามารถเผยแพระ่ได้แล้วในลักษณะ online library เพื่อเป็นช่องทางในการเผยแพร่องค์ความรู้ และก่อให้เกิดการนำไปใช้ประโยชน์เชิงสาธารณะ
+SakonNakon,Agro_industry,11-15 ปี,0,0,0,0
+Sriracha,Engineering,16-20 ปี,ควรเพิ่มระบบ Feedback ในการที่เจ้าหน้าที่ตรวจสอบข้อมูลโครงการวิจัย ควรส่งถึงอีเมลนักวิจัยว่าอนุมัติหรือขาดหลักฐานอะไร ปัจจุบันนักวิจัยต้องรอมาดูว่าเจ้าหน้าที่จะพิมพ์อะไรในระบบอย่างเดียว,0,0,ควรพัฒนาระบบ Feedback ส่งถึงอีเมลนักวิจัย (ในกรณีนักวิจัยป้อนข้อมูลแล้วขึ้นว่ารอตรวจสอบ) ว่าต้องการข้อมูลอะไรเพิ่มในการตรวจสอบ และควรเป็นอีเมลที่นักวิจัยระบุ (เพราะมหาวิทยาลัยมีหลายอีเมล บางเมลนักวิจัยอาจใช้ประจำ บางเมลอาจปีละครั้ง บางเมลอาจไม่เชค เป็นต้น)
+KamphaengSaen,LiberalArts_and_Science,11-15 ปี,0,0,0,0
+Bangkhen,Veterinary_Technology,<= 5 ปี,การอัพเดทข้อมูลงานวิจัย,การอัพเดทข้อมูลทุนวิจัย,0,ตัวหนังสือเล็กไป
+Bangkhen,Fisheries,16-20 ปี,0,0,0,0
+KamphaengSaen,Engineering,<= 5 ปี,ผลงานที่อัพเดตไป บางส่วนไม่ถูกพิจารณา หรือพิจารณทแล้วไม่ถูกนับ อยากทราบว่าเป็นเพราะด้วยเหตุผลอะไรค่ะ,-,0,0
+Bangkhen,Research_and_Development_Institute,11-15 ปี,0,0,-,-
+Bangkhen,Humanities,11-15 ปี,ไม่มี,แก้ไขข้อมูลเองไม่ได้,ไม่มี,ไม่มี
+Bangkhen,Agro_industry,<= 5 ปี,0,0,0,0
+Bangkhen,Science,16-20 ปี,0,0,0,0
+KamphaengSaen,LiberalArts_and_Science,11-15 ปี,0,0,0,0
+SakonNakon,Agro_industry,> 25 ปีขึ้นไป,ไม่มี,ไม่มี,0,ปรับปรุงให้เป็นปัจจุบันและมีความถูกต้องเป็นรายเดือน
+KamphaengSaen,Education_and_Development_Sciences,11-15 ปี,เอกสารที่ใช้ตรวจสอบ ควรเป็น ตัว proposal,0,0,0
+Bangkhen,Agro_industry,16-20 ปี,0,0,0,0
+KamphaengSaen,Engineering,> 25 ปีขึ้นไป,0,0,0,0
+Bangkhen,Fisheries,<= 5 ปี,-,-,-,-
+Bangkhen,Science,> 25 ปีขึ้นไป,-,-,-,-
+KamphaengSaen,Agriculture,> 25 ปีขึ้นไป,0,0,0,0
+Bangkhen,Engineering,6-10 ปี,0,0,0,0
+KamphaengSaen,Education_and_Development_Sciences,16-20 ปี,"การตอบกลับ น่าจะเพิ่มตัวอย่างข้อเอกสารที่ต้องการให้แนบมาด้วย
+",0,0,-
+Bangkhen,Integrated_Science,<= 5 ปี,หากเป็นโครงการวิจัยภายนอก อยากให้มีขั้นตอนเเจ้งเกี่ยวกับการนำเข้าโครงการวิจัยเพื่อให้ระบบสามารถดึงรายงานผลได้,0,0,0
+Bangkhen,Agriculture,16-20 ปี,เวลากรอกข้อมูลผลงานวิจัยใหม่ แล้วต้องรอการอนุมัติ อนุมัติ/ไม่อนุมัติ/มีข้อเสนอแนะจาก สวพ. อยากให้มันเด้งมาแจ้งที่อีเมลด้วย จะสะดวกมาก,0,0,0
+Bangkhen,Social_Sciences,16-20 ปี,ยากไปหน่อย แต่ชินไปแล้ว,0,0,0
+Bangkhen,Forestry,11-15 ปี,0,0,0,0
+Bangkhen,Humanities,6-10 ปี,0,0,0,0
+Bangkhen,Education,> 25 ปีขึ้นไป,0,0,0,0
+Bangkhen,Medicine,<= 5 ปี,0,0,0,0
+Bangkhen,Agriculture,> 25 ปีขึ้นไป,-,-,-,-
+Bangkhen,Agro_industry,> 25 ปีขึ้นไป,0,0,0,0
+Sriracha,Management Sciences,21-25 ปี,0,0,0,"เจ้าหน้าที่ - บริการดี น่ารัก ยินดีช่วยเหลือ
+ระบบ - ใช้งานง่าย ไม่มีปัญหาอะไร"
+Bangkhen,Agriculture,6-10 ปี,0,0,0,0
+KamphaengSaen,Rice_Science_Center,6-10 ปี,-,-,-,-
+Bangkhen,Forestry,> 25 ปีขึ้นไป,0,บางครั้ง upload file ไม่ได้ หรือ save บันทึกการเปลี่ยนแปลงข้อมูลในแต่ละหน้าช้า,0,0
+KamphaengSaen,Agriculture,11-15 ปี,0,0,0,0
+Bangkhen,Architecture,> 25 ปีขึ้นไป,0,ควรมีส่วนแสดงว่าในการ submit ความก้าวหน้างานวิจัยในแต่ละครั้งจะต้องประกอบด้วยเอกสาร หรือองค์ประกอบอะไรบ้าง เพื่อการจัดเตรียมการก่อนล่วงหน้า ปัจจุบันจะต้องกรอกไปจนถึงหน้าสุดท้ายจึงจะทราบว่าต้องมีอะไรบ้าง,ควรมี instruction ให้ทราบการใช้งาน หลายครั้งต้องเดาเอาเอง หรือโทร.สอบถามเจ้าหน้าที่ แล้วทำไปด้วยกันทางโทรศัพท์,0
+Bangkhen,Agriculture,16-20 ปี,0,0,0,0
+Bangkhen,Agriculture,21-25 ปี,0,การขอกด approve โดยผู้ร่วมโครงการฯ เพิ่มขั้นตอนโดยไม่จำเป็น เอกสารแนบบางอันไม่แสดงในแบบพิมพ์โครงการ,0,ออกแบบให้ใช้งานง่าย หารายการง่าย ทันสมัย สบายตา
+KamphaengSaen,Engineering,6-10 ปี,0,0,0,0
+KamphaengSaen,Agriculture,<= 5 ปี,0,0,0,0
+Bangkhen,Agriculture,> 25 ปีขึ้นไป,0,0,0,0
+Bangkhen,Engineering,11-15 ปี,การใส่เลข ISSN or ISBN ควรมีระบบตัดเครื่องหมาย dash ให้อัตโนมัติ,0,0,0
+KamphaengSaen,Engineering,6-10 ปี,0,0,0,0
